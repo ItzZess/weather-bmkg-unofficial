@@ -204,7 +204,6 @@ function cuaca($wil){
 			$head = $head2;
 			break;
 		case 6:					
-			//echo "Your favorite color is " . $jmlHeader;
 			$head = $head3;
 			break;
 		case 5:				
